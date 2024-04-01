@@ -102,10 +102,10 @@ footer ul li a img:hover{
 .contenedor {
     display: flex;
     justify-content: center;
-} 
-.video  {
-    text-align: center;
 } */
+   
+.video  { text-align: center;
+} 
 
 h4 {
     display: flex;
