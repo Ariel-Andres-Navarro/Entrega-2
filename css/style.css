@@ -112,23 +112,10 @@ h4 {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 50px;
-   /*  margin: 50px auto 50px 100px;
-   margin-left: 600px;
-   margin-top: 50px;*/
-  /* text-decoration: underline;*/
-  font-size: 30px;
-  color: rgb(72, 71, 71);
+    font-size: 30px;
+    color: rgb(72, 71, 71);
 }
 
-.disco {
-    margin: 50px auto 50px auto;
- /*   margin-top: 50px;
-    margin-bottom: 50px;
-    display: flex;
-    margin-left: 500px;
-    
-    align-items: center;*/
-    }
  
 .disco ol li {
     margin-left: 15px;
@@ -140,7 +127,6 @@ h4 {
     justify-content: center;
 }
 
-
 form {
     margin: 0 auto ; 
     width: 300px;
@@ -149,6 +135,7 @@ form {
     background-color: #7d7a7a;
     
 }
+
 .contact {
     background-image: url(../img/in-mourning-band/foto-para-contacto.jpg);
 } 
