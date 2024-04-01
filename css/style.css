@@ -108,8 +108,12 @@ footer ul li a img:hover{
 } */
 
 h4 {
-    margin: 50px auto 50px 100px;
-   /* margin-left: 600px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   /*  margin: 50px auto 50px 100px;
+   margin-left: 600px;
    margin-top: 50px;*/
   /* text-decoration: underline;*/
   font-size: 30px;
