@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    color: black;
+    color: rgb(72, 71, 71);
     font-size:  40px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -42,14 +42,23 @@ header  nav ul li {
 }
 
 header  nav ul li a {
-    color: black;
+    color: rgb(72, 71, 71);
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 25px;
 } 
 a:hover {
-    color: #686c5e;
+    color: white;
 }
+
+.grid-album{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+
+
 
 footer {
     border-top: 1px solid black;
@@ -103,7 +112,9 @@ h4 {
    /* margin-left: 600px;
    margin-top: 50px;*/
   /* text-decoration: underline;*/
-  font-size: 30px;}
+  font-size: 30px;
+  color: rgb(72, 71, 71);
+}
 
 .disco {
     margin: 50px auto 50px auto;
