@@ -170,7 +170,7 @@ h2 {
 
 form {
   margin: 0 auto;
-  width: 300px;
+  width: 400px;
   padding: 30px;
   border-radius: 5px;
   background-color: #7d7a7a;
@@ -181,12 +181,16 @@ form {
 }
 .contact h2 {
   text-align: center;
-  color: whitesmoke;
-  font-size: 30px;
+  color: black;
+  font-size: 20px;
+}
+.contact h2 span {
+  background-color: #7d7a7a;
 }
 .contact p {
   font-size: 20px;
   font-weight: bold;
+  color: black;
 }
 .contact .text-contact {
   color: rgb(12, 12, 12);
@@ -196,13 +200,14 @@ form {
 
 .contact h2 {
   text-align: center;
-  color: whitesmoke;
+  color: black;
   font-size: 30px;
 }
 
 .contact p {
   font-size: 20px;
   font-weight: bold;
+  color: black;
 }
 
 .text-contact {
