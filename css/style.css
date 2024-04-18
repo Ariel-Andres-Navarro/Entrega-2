@@ -68,25 +68,6 @@ footer li {
   text-decoration: none;
 }
 
-/*footer p {
-    font-size: 20px;
-    font-style: normal;
-
-    color: black;
-}
-
-footer  ul {
-    list-style-type: none;
-   display: flex;
-   margin: auto 20px auto ;
-}
-footer ul li {
-    text-decoration: none;
-}
-
-footer ul li a img:hover{
-    color: #404040; 
- } */
 .color-de-fondo-nav {
   background-color: #817f7f;
 }
@@ -158,6 +139,10 @@ h2 {
   justify-content: center;
   margin-top: 15px;
   margin-bottom: 15px;
+  transition: 1s;
+}
+.enlace a:hover {
+  transform: rotate(360deg);
 }
 
 .form {
