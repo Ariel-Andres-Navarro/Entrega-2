@@ -18,7 +18,7 @@ body {
 .section-tarjeta .card {
   background-color: gray;
 }
-.section-tarjeta .card .card-body h5 {
+.section-tarjeta .card .card-body h3 {
   color: black;
   font-size: 25px;
   text-align: center;
@@ -129,7 +129,7 @@ h2 {
   font-style: italic;
 }
 
-.enlace h5 {
+.enlace h3 {
   text-align: center;
   color: black;
   font-size: 20px;
@@ -211,7 +211,7 @@ form {
 .section-tarjeta .card {
   background-color: gray;
 }
-.section-tarjeta .card .card-body h5 {
+.section-tarjeta .card .card-body h3 {
   color: black;
   font-size: 25px;
   text-align: center;
